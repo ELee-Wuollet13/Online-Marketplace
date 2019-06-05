@@ -24,3 +24,6 @@ _Internet connection is necessary for this app_
 
 ## Bugs
 _No known bug. Work in progress_
+
+### Copyright
+_Open Source **Everett and Hannah** (c) 2019_
